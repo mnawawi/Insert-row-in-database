@@ -1,0 +1,24 @@
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.exe.config
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\bin\Debug\Gunting.accdb
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.exe
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.pdb
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.xml
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai_gunting_rambut.Form1.resources
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai_gunting_rambut.Resources.resources
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.vbproj.GenerateResource.Cache
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.exe
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.xml
+c:\users\irnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.pdb
+C:\Users\IRnawawi\documents\visual studio 2013\Projects\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.vbprojResolveAssemblyReference.cache
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\Gunting.accdb
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.exe.config
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.exe
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.pdb
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.xml
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.vbprojResolveAssemblyReference.cache
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai_gunting_rambut.Form1.resources
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai_gunting_rambut.Resources.resources
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.vbproj.GenerateResource.Cache
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.exe
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.xml
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.pdb

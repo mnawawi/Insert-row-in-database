@@ -1,0 +1,22 @@
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\Gunting.accdb
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.exe.config
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.exe
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.pdb
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\bin\Debug\kedai gunting rambut.xml
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai_gunting_rambut.Form1.resources
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai_gunting_rambut.Resources.resources
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\Customer_waiting_list.vbproj.GenerateResource.Cache
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.exe
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.xml
+C:\Users\ir\Desktop\kedai gunting rambut\kedai gunting rambut\obj\Debug\kedai gunting rambut.pdb
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\bin\Debug\Gunting.accdb
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\bin\Debug\kedai gunting rambut.exe.config
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\bin\Debug\kedai gunting rambut.exe
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\bin\Debug\kedai gunting rambut.pdb
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\bin\Debug\kedai gunting rambut.xml
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\obj\Debug\kedai_gunting_rambut.Form1.resources
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\obj\Debug\kedai_gunting_rambut.Resources.resources
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\obj\Debug\Customer_waiting_list.vbproj.GenerateResource.Cache
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\obj\Debug\kedai gunting rambut.exe
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\obj\Debug\kedai gunting rambut.xml
+C:\Users\ir\Desktop\assigment for interview intel\Add_new_row_in_table_database_2\kedai gunting rambut\obj\Debug\kedai gunting rambut.pdb
